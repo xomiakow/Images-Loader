@@ -1,0 +1,48 @@
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Images_Loader\Images_Loader\bin\Debug\net6.0-windows\Images_Loader.exe
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Images_Loader\Images_Loader\bin\Debug\net6.0-windows\Images_Loader.deps.json
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Images_Loader\Images_Loader\bin\Debug\net6.0-windows\Images_Loader.runtimeconfig.json
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Images_Loader\Images_Loader\bin\Debug\net6.0-windows\Images_Loader.dll
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Images_Loader\Images_Loader\bin\Debug\net6.0-windows\Images_Loader.pdb
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\Images_Loader.csproj.AssemblyReference.cache
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\App.g.cs
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\Images_Loader_MarkupCompile.cache
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\Images_Loader_MarkupCompile.lref
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\MainWindow.baml
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\Images_Loader.g.resources
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\Images_Loader.GeneratedMSBuildEditorConfig.editorconfig
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\Images_Loader.AssemblyInfoInputs.cache
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\Images_Loader.AssemblyInfo.cs
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\Images_Loader.csproj.CoreCompileInputs.cache
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\Images_Loader.dll
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\refint\Images_Loader.dll
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\Images_Loader.pdb
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\Images_Loader.genruntimeconfig.cache
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\ref\Images_Loader.dll
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\LoaderPanel.g.cs
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\LoaderPanel.baml
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Новая папка\Images_Loader\Images_Loader\bin\Debug\net6.0-windows\Images_Loader.exe
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Новая папка\Images_Loader\Images_Loader\bin\Debug\net6.0-windows\Images_Loader.deps.json
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Новая папка\Images_Loader\Images_Loader\bin\Debug\net6.0-windows\Images_Loader.runtimeconfig.json
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Новая папка\Images_Loader\Images_Loader\bin\Debug\net6.0-windows\Images_Loader.dll
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Новая папка\Images_Loader\Images_Loader\bin\Debug\net6.0-windows\Images_Loader.pdb
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Новая папка\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\Images_Loader.csproj.AssemblyReference.cache
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Новая папка\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\LoaderPanel.g.cs
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Новая папка\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Новая папка\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\App.g.cs
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Новая папка\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Новая папка\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\Images_Loader_MarkupCompile.cache
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Новая папка\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\Images_Loader_MarkupCompile.lref
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Новая папка\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\LoaderPanel.baml
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Новая папка\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\MainWindow.baml
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Новая папка\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\Images_Loader.g.resources
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Новая папка\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\Images_Loader.GeneratedMSBuildEditorConfig.editorconfig
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Новая папка\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\Images_Loader.AssemblyInfoInputs.cache
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Новая папка\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\Images_Loader.AssemblyInfo.cs
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Новая папка\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\Images_Loader.csproj.CoreCompileInputs.cache
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Новая папка\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\Images_Loader.dll
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Новая папка\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\refint\Images_Loader.dll
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Новая папка\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\Images_Loader.pdb
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Новая папка\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\Images_Loader.genruntimeconfig.cache
+D:\SomeSheet\Work & Study\WRK\Test Tasks for CV\WPF\Новая папка\Images_Loader\Images_Loader\obj\Debug\net6.0-windows\ref\Images_Loader.dll
